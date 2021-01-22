@@ -1,0 +1,90 @@
+Training Using 10% of The Data
+Time : 0.866844987869
+Validating Using 10% of The Data aka 45 images
+84 correct out of 150 (48.7%).
+Testing Using 10% of The Data
+80 correct out of 150 (48.7%).
+standard deviation of 6.63324958071
+
+
+Training Using 20% of The Data
+Time : 1.39682126045
+Validating Using 20% of The Data aka 90 images
+109 correct out of 150 (63.3%).
+Testing Using 20% of The Data
+107 correct out of 150 (63.3%).
+standard deviation of 10.0
+
+
+Training Using 30% of The Data
+Time : 2.28883757591
+Validating Using 30% of The Data aka 135 images
+127 correct out of 150 (87.3%).
+Testing Using 30% of The Data
+125 correct out of 150 (87.3%).
+standard deviation of 6.16441400297
+
+
+Training Using 40% of The Data
+Time : 2.81256489754
+Validating Using 40% of The Data aka 180 images
+129 correct out of 150 (86.7%).
+Testing Using 40% of The Data
+127 correct out of 150 (86.7%).
+standard deviation of 1.41421356237
+
+
+Training Using 50% of The Data
+Time : 3.52429184914
+Validating Using 50% of The Data aka 225 images
+132 correct out of 150 (87.3%).
+Testing Using 50% of The Data
+130 correct out of 150 (87.3%).
+standard deviation of 1.73205080757
+
+
+Training Using 60% of The Data
+Time : 4.35148220062
+Validating Using 60% of The Data aka 270 images
+135 correct out of 150 (86.7%).
+Testing Using 60% of The Data
+131 correct out of 150 (86.7%).
+standard deviation of 3.0
+
+
+Training Using 70% of The Data
+Time : 5.22089772224
+Validating Using 70% of The Data aka 315 images
+138 correct out of 150 (86.7%).
+Testing Using 70% of The Data
+132 correct out of 150 (86.7%).
+standard deviation of 2.2360679775
+
+
+Training Using 80% of The Data
+Time : 6.08158574104
+Validating Using 80% of The Data aka 360 images
+137 correct out of 150 (88.0%).
+Testing Using 80% of The Data
+132 correct out of 150 (88.0%).
+standard deviation of 0.0
+
+
+Training Using 90% of The Data
+Time : 6.51909103394
+Validating Using 90% of The Data aka 405 images
+137 correct out of 150 (87.3%).
+Testing Using 90% of The Data
+132 correct out of 150 (87.3%).
+standard deviation of 1.41421356237
+
+
+Training Using 100% of The Data
+Time : 7.22562060356
+Validating Using 100% of The Data aka 451 images
+139 correct out of 150 (89.3%).
+Testing Using 100% of The Data
+134 correct out of 150 (89.3%).
+standard deviation of 0.0
+
+

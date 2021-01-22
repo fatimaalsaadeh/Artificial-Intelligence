@@ -1,0 +1,140 @@
+Training Using 10% of The Data k =0.001
+Validating Using 10% of The Data k =0.001
+99 correct out of 150 (66.0%).
+Training Using 10% of The Data k =0.01
+Validating Using 10% of The Data k =0.01
+101 correct out of 150 (67.3%).
+Training Using 10% of The Data k =0.05
+Validating Using 10% of The Data k =0.05
+107 correct out of 150 (71.3%).
+Training Using 10% of The Data k =0.1
+Validating Using 10% of The Data k =0.1
+110 correct out of 150 (73.3%).
+Training Using 10% of The Data k =0.5
+Validating Using 10% of The Data k =0.5
+113 correct out of 150 (75.3%).
+Training Using 10% of The Data k =1
+Validating Using 10% of The Data k =1
+91 correct out of 150 (60.7%).
+Training Using 10% of The Data k =5
+Validating Using 10% of The Data k =5
+80 correct out of 150 (53.3%).
+Training Using 10% of The Data k =10
+Validating Using 10% of The Data k =10
+80 correct out of 150 (53.3%).
+Training Using 10% of The Data k =20
+Validating Using 10% of The Data k =20
+80 correct out of 150 (53.3%).
+Training Using 10% of The Data k =50
+Validating Using 10% of The Data k =50
+80 correct out of 150 (53.3%).
+Training Using 10% of The Data Best K: 0.5
+Validating Using 10% of The Data Best K: 0.5
+113 correct out of 150 (75.3%).
+Testing Using 10% of The Data
+118 correct out of 150 (78.7%).
+Training Using 20% of The Data k =0.001
+Validating Using 20% of The Data k =0.001
+131 correct out of 150 (87.3%).
+Training Using 20% of The Data k =0.01
+Validating Using 20% of The Data k =0.01
+131 correct out of 150 (87.3%).
+Training Using 20% of The Data k =0.05
+Validating Using 20% of The Data k =0.05
+130 correct out of 150 (86.7%).
+Training Using 20% of The Data k =0.1
+Validating Using 20% of The Data k =0.1
+129 correct out of 150 (86.0%).
+Training Using 20% of The Data k =0.5
+Validating Using 20% of The Data k =0.5
+129 correct out of 150 (86.0%).
+Training Using 20% of The Data k =1
+Validating Using 20% of The Data k =1
+127 correct out of 150 (84.7%).
+Training Using 20% of The Data k =5
+Validating Using 20% of The Data k =5
+98 correct out of 150 (65.3%).
+Training Using 20% of The Data k =10
+Validating Using 20% of The Data k =10
+80 correct out of 150 (53.3%).
+Training Using 20% of The Data k =20
+Validating Using 20% of The Data k =20
+80 correct out of 150 (53.3%).
+Training Using 20% of The Data k =50
+Validating Using 20% of The Data k =50
+80 correct out of 150 (53.3%).
+Training Using 20% of The Data Best K: 0.001
+Validating Using 20% of The Data Best K: 0.001
+131 correct out of 150 (87.3%).
+Testing Using 20% of The Data
+127 correct out of 150 (84.7%).
+Training Using 30% of The Data k =0.001
+Validating Using 30% of The Data k =0.001
+130 correct out of 150 (86.7%).
+Training Using 30% of The Data k =0.01
+Validating Using 30% of The Data k =0.01
+128 correct out of 150 (85.3%).
+Training Using 30% of The Data k =0.05
+Validating Using 30% of The Data k =0.05
+129 correct out of 150 (86.0%).
+Training Using 30% of The Data k =0.1
+Validating Using 30% of The Data k =0.1
+130 correct out of 150 (86.7%).
+Training Using 30% of The Data k =0.5
+Validating Using 30% of The Data k =0.5
+129 correct out of 150 (86.0%).
+Training Using 30% of The Data k =1
+Validating Using 30% of The Data k =1
+121 correct out of 150 (80.7%).
+Training Using 30% of The Data k =5
+Validating Using 30% of The Data k =5
+91 correct out of 150 (60.7%).
+Training Using 30% of The Data k =10
+Validating Using 30% of The Data k =10
+71 correct out of 150 (47.3%).
+Training Using 30% of The Data k =20
+Validating Using 30% of The Data k =20
+70 correct out of 150 (46.7%).
+Training Using 30% of The Data k =50
+Validating Using 30% of The Data k =50
+70 correct out of 150 (46.7%).
+Training Using 30% of The Data Best K: 0.001
+Validating Using 30% of The Data Best K: 0.001
+130 correct out of 150 (86.7%).
+Testing Using 30% of The Data
+124 correct out of 150 (82.7%).
+Training Using 40% of The Data k =0.001
+Validating Using 40% of The Data k =0.001
+133 correct out of 150 (88.7%).
+Training Using 40% of The Data k =0.01
+Validating Using 40% of The Data k =0.01
+132 correct out of 150 (88.0%).
+Training Using 40% of The Data k =0.05
+Validating Using 40% of The Data k =0.05
+131 correct out of 150 (87.3%).
+Training Using 40% of The Data k =0.1
+Validating Using 40% of The Data k =0.1
+131 correct out of 150 (87.3%).
+Training Using 40% of The Data k =0.5
+Validating Using 40% of The Data k =0.5
+131 correct out of 150 (87.3%).
+Training Using 40% of The Data k =1
+Validating Using 40% of The Data k =1
+126 correct out of 150 (84.0%).
+Training Using 40% of The Data k =5
+Validating Using 40% of The Data k =5
+73 correct out of 150 (48.7%).
+Training Using 40% of The Data k =10
+Validating Using 40% of The Data k =10
+70 correct out of 150 (46.7%).
+Training Using 40% of The Data k =20
+Validating Using 40% of The Data k =20
+70 correct out of 150 (46.7%).
+Training Using 40% of The Data k =50
+Validating Using 40% of The Data k =50
+70 correct out of 150 (46.7%).
+Training Using 40% of The Data Best K: 0.001
+Validating Using 40% of The Data Best K: 0.001
+133 correct out of 150 (88.7%).
+Testing Using 40% of The Data
+135 correct out of 150 (90.0%).
